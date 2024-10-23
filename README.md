@@ -27,7 +27,7 @@ to your webhook
 ## 5. Set Up Settings And Press F1 To Start The Macro
 
 # AlonGO! Discord Server:
-# https://discord.gg/u8HURGY3j
+# https://discord.gg/u8HURGY3jg
 # Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1241647361131020418/1298446926525628476/image.png?ex=6719986f&is=671846ef&hm=8f7854e6bc4d74c8e85f47fb2c3945243a9eaa2dc6b2a6b89d7a2354c767a1c9&)
