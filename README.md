@@ -1,7 +1,7 @@
 # Saiglon Macro! (Formerly Known As AlonGO!)
 ## An AutoHotKey Macro For The Game "Pets GO!
 
-AlonGO is a project i started working on to learn "AutoHotKey" in my free time, and the macro itself includes multiple features and capabilities
+Saiglon is a project i started working on to learn "AutoHotKey" in my free time, and the macro itself includes multiple features and capabilities
 ## Features:
 ### Auto Breakables:
 Walk around the map breaking coin stacks and chest
